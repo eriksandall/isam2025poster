@@ -1,6 +1,6 @@
 # ISAM 2025 Poster: "Busy Weeks, Popular Equipment, and What to Do About It"
 
-This repository contains the code and data analysis for the research poster to be presented at the International Symposium of Academic Makerspaces (ISAM) 2025. The goal of this project is to analyze makerspace usage data from Spring 2015 to Spring 2024 to identify trends and patterns in overall usage and equipment popularity.
+This repository contains the code for the research poster to be presented at the International Symposium of Academic Makerspaces (ISAM) 2025. The goal of this project is to analyze makerspace usage data from Spring 2015 to Spring 2024 to identify trends and patterns in overall usage and equipment popularity.
 
 ## Description
 
